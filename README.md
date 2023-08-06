@@ -1,11 +1,5 @@
-<h1 align="center">Hello! My name is Toni Ursu</h1>
-<h3 align="center">I am passionate about the IT field and I have very good skills to solve the given tasks. Dynamism, analytical approach, meticulous attention to details, collaboration and effective communication are important aspects for me. Also, through my fresh knowledge in manual and automatic testing (Java, Python, Selenium) but also through continuous learning, I am looking forward to apply my knowledge and my skills, to ensure the quality of delivered software products and increasing their performance. In addition, I easily integrate into teams and I am open to learn and constantly improve my knowledge through the challenges of the projects which I am involved. If you are looking for a young person passionate about testing, motivated and eager to develop in this career, I am interested to discuss how I can bring value and contribute to your team.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toniursu&label=Profile%20views&color=0e75b6&style=flat" alt="toniursu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toniursu" alt="toniursu" /></a> </p>
-
-- 📫 How to reach me **tonyursu2@gmail.com**
+<h1 align="center">Hello Everyoane!</h1>
+<h3 align="center">I am going to present to you my final project realised during QA Software Engineer course. In this project I used the site [https://trupathebrothers.ro/](url). Based on this site I realised some functional testing. In the one hand, I verified the function of some buttons from header and on the another hand, I verified the social media buttons.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,9 +10,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toniursu&show_icons=true&locale=en&layout=compact" alt="toniursu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toniursu&show_icons=true&locale=en" alt="toniursu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toniursu&" alt="toniursu" /></p>
